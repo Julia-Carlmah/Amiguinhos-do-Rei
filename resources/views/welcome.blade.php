@@ -103,7 +103,7 @@
      <div id="rodape">
          <div id="texto">
             <br/>
-             <span style="font-weight: bold"> Copyright © 2018</span> Amguinhos do Rei. Todos os direitos reservados
+             <span style="font-weight: bold"> Copyright © 2018</span> Amiguinhos do Rei. Todos os direitos reservados
         </div>
 
     </div>
