@@ -59,11 +59,11 @@
 		
 		  <div id="menu-opcoes">
       <ul >             
-              <li><a href="htmlpro.html">Inicio</a></li>  
+              <li><a href="htmlpro.html">Inicio</a></li>    
               <li><a href="testarpro.html">Quem Somos</a></li>
               <li><a href="preinscricao.html">Pré-inscrição</a></li>
-              <li><a href="galeria.html">Galeria</a></li> 
-              <li><a href="contactos.html">Contacte-nos</a></li>  
+              <li><a href="{{ asset('galeria.blade.php')}}">Galeria</a></li>   
+              <li><a href="{{ asset('contactos.blade.php')}}">Contacte-nos</a></li>  
             </ul> 
        </div>
 
