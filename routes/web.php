@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/galeria', function () {
     return view('galeria');
 })->name('galeria');
+
+Route::get('/conctatos', function () {
+    return view('conctatos');
+})->name('conctatos');
