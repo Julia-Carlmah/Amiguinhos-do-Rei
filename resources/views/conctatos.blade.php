@@ -63,8 +63,8 @@
              <li><a href="htmlpro.html">Inicio</a></li>    
               <li><a href="testarpro.html">Quem Somos</a></li>
               <li><a href="preinscricao.html">Pré-inscrição</a></li>
-              <li><a href="{{ asset('galeria.blade.php')}}">Galeria</a></li>   
-              <li><a href="{{ asset('contactos.blade.php')}}">Contacte-nos</a></li>  
+              <li><a href="{{ route('galeria')}}">Galeria</a></li>   
+              <li><a href="{{ route('contactos')}}">Contacte-nos</a></li>  
             </ul> 
        </div>
 
