@@ -23,3 +23,7 @@ Route::get('/galeria', function () {
 Route::get('/conctatos', function () {
     return view('conctatos');
 })->name('contactos');
+
+Route::get('/preinscricao', function () {
+    return view('preinscricao');
+})->name('preinscricao');
