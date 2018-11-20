@@ -27,3 +27,7 @@ Route::get('/conctatos', function () {
 Route::get('/preinscricao', function () {
     return view('preinscricao');
 })->name('preinscricao');
+
+Route::get('/Quemsomos', function () {
+    return view('Quemsomos');
+})->name('Quemsomos');

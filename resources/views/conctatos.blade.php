@@ -61,10 +61,10 @@
       <div id="menu-opcoes">
       <ul >             
               <li><a href="{{ route('welcome')}}">Inicio</a></li>     
-              <li><a href="testarpro.html">Quem Somos</a></li>
+              <li><a href="{{ route('Quemsomos')}}">Quem Somos</a></li>
               <li><a href="{{ route('preinscricao')}}">Pré-inscrição</a></li>
               <li><a href="{{ route('galeria')}}">Galeria</a></li>   
-              <li><a href="{{ route('contactos')}}">Contacte-nos</a></li>  
+              <li><a href="{{ route('contactos')}}">Contacte-nos</a></li> 
             </ul> 
        </div>
 
