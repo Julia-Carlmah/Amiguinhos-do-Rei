@@ -21,4 +21,4 @@ Route::get('/galeria', function () {
 
 Route::get('/conctatos', function () {
     return view('conctatos');
-})->name('conctatos');
+})->name('contactos');
