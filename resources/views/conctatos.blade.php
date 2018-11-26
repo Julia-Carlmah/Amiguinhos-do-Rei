@@ -85,7 +85,7 @@
 
      <div id="texto-1">
      </br>
-
+  O centro encontra-se localizado em Magoanine A, na avenida General Sebastiao Magaia.
      
      
     </div>
