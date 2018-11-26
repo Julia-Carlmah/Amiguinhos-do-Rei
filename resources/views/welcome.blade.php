@@ -90,14 +90,13 @@
         <div id="texto-1">
 
          </br>
-         
-         O layout muda automaticamente para se adaptar à largura do navegador do usuário;
-         • Mudança no número de colunas, inclusive;
-         • Geralmente construído via JavaScript;
-         • Pouco usual.
-          O nome div vem de divisão, e esta tag vai dar o simples poder de dividir qualquer trecho de seu código. Isso mesmo, você pode criar um bloco, uma divisão, e dentro deste bloco ter uma imagem, links, textos e o que mais você quiser.
-         • E qual a vantagem disto? Vai poder aplicar o CSS nesse bloco, e tudo que estiver dentro da div, seja imagem, texto, link ou o que mais for, vai receber aquelas regras de estilo.
-         • Se fizer isso usando CLASS, por exemplo, vai ter de colocar esse seletor em cada tag.
+  Sistema de gestão do centro infantil “Amiguinhos do Rei” é um software que visa gerir de melhor forma os processos existentes no centro, tais como cadastro, armazenamento de informações, eliminando assim problemas de perda de informação. Tem como público alvo os encarregados das crianças e os funcionários do centro. 
+O sistema a possui como objectivo: 
+• Informatizar o processo de cadastro de dados de funcionários; 
+• Informatizar o processo de   cadastro de dados das crianças e encarregados; 
+• Tornar o processo de busca, actualização e eliminação de informação de encarregados, funcionários e crianças mais eficaz; 
+• Informatizar o processo de registro de pagamento, eliminado a perda de informações. 
+
         </div>
      </p>
      <div id="rodape">
